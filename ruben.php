@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php  ?>
+    <?php  echo?>
     <h3></h3>
 </body>
 </html>
