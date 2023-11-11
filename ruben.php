@@ -6,7 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    <?php  echo?>
+
+    
     <h3></h3>
+
+    <?php echo"prueba hola hola hola" ?>
+
 </body>
 </html>
